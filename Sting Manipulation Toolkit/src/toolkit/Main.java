@@ -101,7 +101,7 @@ public class Main {
 												+manipulateString.removeConsonants());
 				break;	
 		}
-		
+		//test comment
 	}
 	
 	
